@@ -6,22 +6,24 @@ const styles = StyleSheet.create({
         width: 300,
         height: 300,
         alignSelf: "center",
+
     },
-    fotoFitas: {
+    imgjuice: {
         height: 500,
         alignSelf: "center",
     },
-    sobre:{
+    sobre: {
         backgroundColor: "black",
         paddingVertical: 8,
         paddingHorizontal: 16,
-      },
+
+    },
     textoSobre: {
         fontSize: 20,
         lineHeight: 26,
         marginBottom: 10,
-        color: "white",
-        textAlign: "justify"
+        color: "gray",
+        textAlign: "justify",
     },
 })
 
